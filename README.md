@@ -7,7 +7,8 @@
 - interested in data analysis & visualization
 
 ### Project
--[Image Captioning (인사이트21-2 이미지 캡셔닝 프로젝트)](https://github.com/heejinsara/CaptionTeam)
+- [Image Captioning (인사이트21-2 이미지 캡셔닝 프로젝트)](https://github.com/heejinsara/CaptionTeam)
+- Daimler Truck ETA(Estimated Time of Arrival) 산학협력 프로젝트
 
 ### 💻TECK STACK💻
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> <img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=R&logoColor=white"/> <img alt="Tableau" src ="https://img.shields.io/badge/Tableau-E97627.svg?&style=flat-square&logo=Tableau&logoColor=white"/> <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/>
