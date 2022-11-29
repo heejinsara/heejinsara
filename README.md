@@ -1,7 +1,5 @@
 # 박희진 Heejin Park
 
-<br>
-
 ## Work ✨
 - (19.03 ~ ) Economics and Data Science major, Sogang University
 - (21.09 - 22.08) 서강대학교 데이터분석학회 'Insight' 부학회장
