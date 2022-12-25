@@ -3,7 +3,8 @@
 ### About Me
 - (19.03 ~ ) Economics and Data Science major, Sogang University
 - (21.09 - 22.08) 서강대학교 데이터분석학회 'Insight' 부학회장
-- (22.07 - 22.11) Samsung Securities, Data Analytics, Intern
+- (22.07 - 22.11) Samsung Securities, Data Analytics team, Intern
+- (22.12 - 22.02) Winkstone Partners, Data Science team, Intern
 - Interested in Data Analysis & Visualization
 
 ### Project
