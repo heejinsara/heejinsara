@@ -5,7 +5,7 @@
 - (21.09 - 22.08) 서강대학교 데이터분석학회 'Insight' 부학회장
 - (22.07 - 22.11) Samsung Securities, Data Analytics team, Intern
 - (22.12 - 23.02) Winkstone Partners, Data Science team, Intern
-- Interested in Data Analysis & Visualization
+- (23.03 - 23.08) Naver Boostcamp AI Tech, NLP
 
 ### Project
 - 🔠[Image Captioning (Insight 21-2 이미지 캡셔닝 프로젝트)](https://github.com/heejinsara/CaptionTeam)
