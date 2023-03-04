@@ -7,6 +7,10 @@
 - (22.12 - 23.02) Winkstone Partners, Data Science team, Intern
 - (23.03 - 23.08) Naver Boostcamp AI Tech, NLP
 
+### Competition
+- 2023 치안 안전 데이터 분석 경진대회 대상(경찰대학장 표창)
+  - 신용평가모형을 활용한 교통사고 위험 5등급 시스템 구축: 2022년 대전·세종·충남 112 신고 데이터를 중심으로
+
 ### Project
 - 🔠[Image Captioning (Insight 21-2 이미지 캡셔닝 프로젝트)](https://github.com/heejinsara/CaptionTeam)
 - 🚛Daimler Truck ETA(Estimated Time of Arrival) 산학협력 프로젝트
