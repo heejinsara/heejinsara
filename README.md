@@ -8,7 +8,7 @@
 - (23.03 - 23.08) Naver Boostcamp AI Tech, NLP
 
 ### Competition
-- 2023 치안 안전 데이터 분석 경진대회 대상(경찰대학장 표창)
+- 2023 치안 안전 데이터 분석 경진대회 대상(1등, 경찰대학장 표창)
 
 ### Project
 - 🔠[Image Captioning (Insight 21-2 이미지 캡셔닝 프로젝트)](https://github.com/heejinsara/CaptionTeam)
