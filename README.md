@@ -1,7 +1,7 @@
 ## 안녕하세요! 데이터에 관심이 많은 박희진입니다😎
 
 ### 📌Activity
-- (19.03 - 24.02) Economics & Bigdata Science major, Sogang University
+- (19.03 - 24.02) Economics & Bigdata Science major, Sogang University 졸업예정
 - (21.09 - 22.08) 서강대학교 데이터분석학회 'Insight' 부학회장
 - (22.07 - 22.11) Samsung Securities, Data Analytics team, Intern
 - (22.12 - 23.02) Winkstone Partners, Data Science/AI team, Intern
