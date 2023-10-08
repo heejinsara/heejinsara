@@ -2,10 +2,10 @@
 
 ### 📌Activity
 - (19.03 - 24.02) Economics & Bigdata Science major, Sogang University 졸업예정
-- (21.09 - 22.06) 서강대학교 데이터분석학회 'Insight' 부학회장
-- (22.07 - 22.11) Samsung Securities, Data Analytics team, Intern
-- (22.12 - 23.02) Winkstone Partners, Data Science/AI team, Intern
 - (23.03 - 23.08) Naver Boostcamp AI Tech, NLP
+- (22.12 - 23.02) Winkstone Partners, Data Science/AI team, Intern
+- (22.07 - 22.11) Samsung Securities, Data Analytics team, Intern
+- (21.09 - 22.06) 서강대학교 데이터분석학회 'Insight' 부학회장
 
 ### 🏆Awards
 - FSI Data Challenge 2023 **금융위원회 위원장상**(**1위**)
@@ -13,15 +13,15 @@
   - 라이프스타일에 따른 전기차 구매 성향 분석  
   - 전기차 구매 고객 인구수 예측 모델 고도화
 
-- 2023 치안 안전 데이터 분석 경진대회 **대상**(**1위**, 경찰대학장 표창)
-  - 2022년 대전·세종·충남 112 신고 데이터 & 공공데이터 활용
-  - 신용평가모형을 활용한 교통사고 위험 5등급 시스템 구축
-  - 교통사고 위험지수 대시보드 제작
-
 - 2023 강서구 빅데이터 활용 공모전 **최우수상**(**1위**, 구청장상)
   - 서울 신용보증재단 데이터를 중심으로 강서구 소상공인 통합 데이터 구축
   - 신용평가모형을 활용한 강서구 소상공인 폐업 위험 평점화 모형 및 위험 등급 산정
   - 폐업 위험지수 대시보드 제작
+
+- 2023 치안 안전 데이터 분석 경진대회 **대상**(**1위**, 경찰대학장 표창)
+  - 2022년 대전·세종·충남 112 신고 데이터 & 공공데이터 활용
+  - 신용평가모형을 활용한 교통사고 위험 5등급 시스템 구축
+  - 교통사고 위험지수 대시보드 제작
 
 ### 🛠TECH STACK
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=flat-square&logo=Python&logoColor=white"/> <img alt="R" src ="https://img.shields.io/badge/R-276DC3.svg?&style=flat-square&logo=R&logoColor=white"/> <img alt="Tableau" src ="https://img.shields.io/badge/Tableau-E97627.svg?&style=flat-square&logo=Tableau&logoColor=white"/> <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat-square&logo=MySQL&logoColor=white"/>
