@@ -6,9 +6,13 @@
 - (22.07 - 22.11) Samsung Securities, Data Analytics team, Intern
 - (22.12 - 23.02) Winkstone Partners, Data Science/AI team, Intern
 - (23.03 - 23.08) Naver Boostcamp AI Tech, NLP
-- (23.09 - 23.11) Google ML Bootcamp
 
 ### 🏆Awards
+- FSI Data Challenge 2023 **금융위원회 위원장상**(**1위**)
+  - 전기차 구매 선호 평점화 모형 개발 및 구매 선호 등급 산출
+  - 라이프스타일에 따른 전기차 구매 성향 분석  
+  - 전기차 구매 고객 인구수 예측 모델 고도화
+
 - 2023 치안 안전 데이터 분석 경진대회 **대상**(**1위**, 경찰대학장 표창)
   - 2022년 대전·세종·충남 112 신고 데이터 & 공공데이터 활용
   - 신용평가모형을 활용한 교통사고 위험 5등급 시스템 구축
